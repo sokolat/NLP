@@ -6,8 +6,6 @@ import java.util.Set;
 
 /**
 *
-* @author      Nathan Bussière, Sidya Galakho
-* @matricule   20218547, 20207299
 */
 public class FileMap<K,V> implements Map<K,V> {
     private Map<K,V> fileMap ;
