@@ -3,11 +3,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-/**
-*
-* @author      Nathan Bussière, Sidya Galakho
-* @matricule   20218547, 20207299
-*/
 public class WordMap<K,V> implements Map<K,V> {
     private ProbeHashMap<K,V> wordMap ;
     public WordMap(){
