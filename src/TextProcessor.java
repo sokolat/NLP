@@ -13,8 +13,6 @@ import java.util.Properties;
 /**
 * TextProcessor is a class that processes a single file
 *
-* @author      Nathan Bussière, Sidya Galakho
-* @matricule   20218547, 20207299
 */
 public final class TextProcessor { 
     private int size ;
