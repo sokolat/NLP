@@ -1,8 +1,6 @@
 
 /**
 *
-* @author      Nathan Bussière, Sidya Galakho
-* @matricule   20218547, 20207299
 */
 import java.io.IOException;
 
