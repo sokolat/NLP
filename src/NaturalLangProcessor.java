@@ -16,8 +16,6 @@ import java.util.Scanner;
 * text at least once) and TFIDF (This is a score that reflects the importance of a word in a document.)
 * 
 *
-* @author      Nathan Bussière, Sidya Galakho
-* @matricule   20218547, 20207299
 */
 public final class NaturalLangProcessor {
     //----- inner MapEntry class -----
