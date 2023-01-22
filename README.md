@@ -1,4 +1,4 @@
-##MiniSearchEngine
+## MiniSearchEngine
 MinisearchEngine is an API providing two main queries in a large dataset : 
 1. Given a word in the dataset, find the most probable word that comes after
 him.
